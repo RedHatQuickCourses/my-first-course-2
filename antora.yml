@@ -1,5 +1,5 @@
 name: REPLACEREPONAME
-title: FIXME Course Title
+title: My First Course
 version: 1
 nav:
 - modules/ROOT/nav.adoc

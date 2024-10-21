@@ -1,5 +1,5 @@
 site:
-  title: FIXME Course Title
+  title: My First Course
   start_page: REPLACEREPONAME::index.adoc
 
 content:
